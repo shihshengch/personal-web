@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Assistant Intern
-    company: Eastspring Securities Investment Trust Co. Ltd.
+    company: Eastspring Securities Investment
     company_url: 'https://www.eastspring.com/?select_domain=tw'
     company_logo: org-
     location: California
