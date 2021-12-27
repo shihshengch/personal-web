@@ -50,9 +50,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: uploads/resume.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -61,6 +61,10 @@ email: ""
 highlight_name: true
 ---
 
+<div style="text-align: justify">
 Shih-Sheng Chang is an MSc candidate in Quantitative Economics at Kiel University, Germany. His research interests include Derivatives Pricing and Risk Management in Financial Econometrics. He has several experiences in financial data analysis, such as global asset allocation in stock and bond markets, derivatives option pricing with stochastic volatility and jump-diffusion, and multi-step-ahead risk measures in Normal Mixture models.
+</div>
 
+</br>
+  
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
