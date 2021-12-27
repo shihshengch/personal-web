@@ -40,11 +40,8 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- display:
-    header: true
-  icon: instagram
+- icon: instagram
   icon_pack: fab
-  label: Follow me on Instagram
   link: https://www.instagram.com/shihshengch
 - icon: github
   icon_pack: fab
@@ -53,9 +50,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
