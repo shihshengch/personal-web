@@ -28,15 +28,13 @@ experience:
         * Asset Management Company of Prudential plc (UK)
     company_url: https://www.eastspring.com/?select_domain=tw
     company_logo: org-eastspring
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: Department of Research and Investment, Taiwan
+    date_start: '2017-09-01'
+    date_end: '2018-07-31'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        * Industry-University Cooperative Research Project with Prof. Dr. Ching-Fan Chung’s Lab
+        * Analyzed strategies of quantitative global asset allocation to assist investment decision and product development
+        * Built R Shiny dashboards to visualize the model performance and backtesting results
         
   - title: Professor of Semiconductor Physics
     company: University X
