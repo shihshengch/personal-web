@@ -24,8 +24,8 @@ date_format: Jan 2006
 experience:
   - title: Research Assistant Intern
     company: Eastspring Securities Investment
-    company_url: 'https://www.eastspring.com/?select_domain=tw'
-    company_logo: org-eastspring
+    company_url: https://www.eastspring.com/?select_domain=tw
+    company_logo: org-gc
     location: California
     date_start: '2021-01-01'
     date_end: ''
