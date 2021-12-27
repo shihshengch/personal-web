@@ -67,4 +67,4 @@ Shih-Sheng Chang is an MSc candidate in Quantitative Economics at Kiel Universit
 
 </br>
   
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
