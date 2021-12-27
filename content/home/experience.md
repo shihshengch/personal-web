@@ -23,9 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Assistant Intern
-    company: |2-
-        * Eastspring Securities Investment Trust Co. Ltd.
-        * Asset Management Company of Prudential plc (UK)
+    company: Eastspring Securities Investment Trust Co. Ltd.
     company_url: 'https://www.eastspring.com/?select_domain=tw'
     company_logo: org-eastspring
     location: Department of Research and Investment, Taiwan
@@ -37,9 +35,7 @@ experience:
         * Built R Shiny dashboards to visualize the model performance and backtesting results
     
   - title: Student Research Assistant
-    company: |2- 
-        * Chair Prof. Dr. Ching-Fan Chung’s Lab
-        * National Tsing Hua University
+    company: Chair Prof. Dr. Ching-Fan Chung’s Lab
     company_url: 'http://www.qf.nthu.edu.tw/'
     company_logo: org-nthu
     location: Department of Quantitative Finance, Taiwan
