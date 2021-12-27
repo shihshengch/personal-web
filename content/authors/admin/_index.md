@@ -64,10 +64,6 @@ email: ""
 highlight_name: true
 ---
 
-<div style="text-align: justify">
 Shih-Sheng Chang is an MSc candidate in Quantitative Economics at Kiel University, Germany. His research interests include Derivatives Pricing and Risk Management in Financial Econometrics. He has several experiences in financial data analysis, such as global asset allocation in stock and bond markets, derivatives option pricing with stochastic volatility and jump-diffusion, and multi-step-ahead risk measures in Normal Mixture models.
-</div>
-
-</br>
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
