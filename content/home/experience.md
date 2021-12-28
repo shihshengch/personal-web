@@ -24,11 +24,12 @@ date_format: Jan 2006
 experience:
   - title: Research Assistant Intern
     company: |2-
-        * Eastspring Securities Investment
+        * Department of Research and Investment
+        * Eastspring Securities Investment Trust Co. Ltd.
         * Asset Management Company of Prudential plc (UK)
     company_url: https://www.eastspring.com/?select_domain=tw
     company_logo: org-eastspring
-    location: Department of Research and Investment, Taiwan
+    location: Taiwan
     date_start: '2017-09-01'
     date_end: '2018-07-31'
     description: |2-
@@ -39,10 +40,11 @@ experience:
   - title: Student Research Assistant
     company: |2- 
         * Chair Prof. Dr. Ching-Fan Chung’s Lab
+        * Department of Quantitative Finance
         * National Tsing Hua University
     company_url: http://www.qf.nthu.edu.tw/
     company_logo: org-nthu
-    location: Department of Quantitative Finance, Taiwan
+    location: Taiwan
     date_start: '2017-09-01'
     date_end: '2018-07-31'
     description: |2-
